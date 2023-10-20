@@ -3,8 +3,8 @@
 
 Tecnologias usadas no projeto:
 
-🟠 CSS
+🟠 HTML
 
-🔵 HTML
+🔵 CSS
 
 🟨 JAVASCRIPT
